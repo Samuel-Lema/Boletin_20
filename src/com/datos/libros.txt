@@ -1,0 +1,6 @@
+Libro1 * Samuel * 12.0 * 120
+Libro2 * Artai * 11.0 * 17
+Libro4 * Samuel * 32.0 * 76
+Libro5 * Samuel * 7.0 * 4
+Libro6 * Yo * 45.0 * 124
+Libro7 * Yo * 23.0 * 43
